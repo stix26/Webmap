@@ -1,5 +1,5 @@
 # Webmap
-Webmap that can be viewed in your browser
+Webmap made with the instruction of a Udemy course. A Webmap that can be viewed in your browser.
 
 Step 1: (Download Zip)
 
